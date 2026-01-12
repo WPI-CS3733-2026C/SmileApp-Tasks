@@ -1,4 +1,4 @@
-# Warmup Project - CS 3733 - 2025 B Term
+# Warmup Project - CS 3733 - 2026 C Term
 Before we jump into the main team projects, we will practice  web
 development by building a simple message portal called "Smile". 
 
@@ -502,5 +502,6 @@ To accomplish this, we will do the following:
 2. Submit your repo link on Canvas
 
    * Copy your repository URL and submit it in the Canvas `Milestone1` dropbox. 
+
 
 
