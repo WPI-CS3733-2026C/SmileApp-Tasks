@@ -1,4 +1,4 @@
-# Warmup Project - CS 3733 - 2025 B Term
+# Warmup Project - CS 3733 - 2026 C Term
 
 # Milestone2
 
@@ -371,3 +371,4 @@ Lastly, we will add sorting functionality to our app. The user will be able to s
 
    * Copy your repository URL and submit it in the Canvas `Milestone2` dropbox. 
  
+
