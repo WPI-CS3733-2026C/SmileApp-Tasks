@@ -1,4 +1,4 @@
-# Warmup Project - CS 3733 - 2025 B Term
+# Warmup Project - CS 3733 - 2026 C Term
 
 # Milestone3
 
@@ -580,3 +580,4 @@ Run the provided automated tests under `/tests` directory:
 
    * Copy your repository URL and submit it in the Canvas `Milestone3` dropbox. 
  
+
