@@ -28,7 +28,7 @@ Please follow these steps closely:
 ![alt text](./assets/EC2-Config.png)
 3. Name your EC2 instance after your team name. 
 4. Select "Amazon Linux" as the AMI, and continue to the next step.
-5. <strong>IMPORTANT!</strong> Make sure the instance type is set to t2.micro. Any other instance type will result in immediate charges.
+5. <strong>IMPORTANT!</strong> Make sure the instance type is set to t3.micro. Any other instance type will result in immediate charges.
 6. Create a new key-pair. This is how you are going to SSH into your EC2 instance. When prompted, select the RSA type and .pem format, and then click on "create key pair". Save this key somewhere safe, as it will be required every time you need to deploy your code.
 7. In the network settings tab, select the following
     - Allow SSH traffic from anywhere
